@@ -1,0 +1,52 @@
+Dodongos Cavern. Fix hookshot object
+actor 1
+795
+160
+-1360
+actor 2
+-795
+160
+-1360
+
+transition door in Jabu cutscene
+-581
+-1033
+-2742
+
+boss room transition room 5
+1360
+-240
+-2119
+
+
+ice cavern
+
+navi information spot
+switch flag 5
+
+
+Depth Test Link Spawn Idk, not a fix
+x 0
+y 500
+z -2000
+
+Kokiri Forest object table beta scene
+2a
+ad
+61
+68
+
+room changing plane
+-785
+120
+1159
+
+Death Mountain collectible modded
+1
+2
+3
+4
+7
+A
+1D
+1E

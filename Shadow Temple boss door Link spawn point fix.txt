@@ -1,0 +1,6 @@
+shadow temple
+Link spawn 2
+Y -1392
+
+Fixed Y
+-1363

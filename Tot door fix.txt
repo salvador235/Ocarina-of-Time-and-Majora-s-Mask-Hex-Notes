@@ -1,0 +1,8 @@
+Door of Time Fix x coordinate
+Actor 4
+Actor Type 8C
+Variable- D
+
+Old x 0
+
+New or fix x-4

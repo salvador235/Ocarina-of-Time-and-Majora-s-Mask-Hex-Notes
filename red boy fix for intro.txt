@@ -1,0 +1,19 @@
+text fix red boy for intro 1.0 U
+
+626f79 hex value- boy
+
+91f346 non compression I think. Did it on practice rom
+
+decompressed 940dd6
+
+old
+48 6F 77 65 76 65 72 2C 20 74 68 65 72 65 20 69 73 20 6F 6E 65 20 62 6F 79 05 41 20 05 40 77 68 6F 01 06 20 64 6F 65 73 20 6E 6F 74 20 68 61 76 65 20 61 20 66 61 69 72 79 2E
+
+new (Red Boy)
+48 6F 77 65 76 65 72 2C 20 74 68 65 72 65 20 69 73 20 6F 6E 65 05 41 20 62 6F 79 20 05 40 77 68 6F 01 06 20 64 6F 65 73 20 6E 6F 74 20 68 61 76 65 20 61 20 66 61 69 72 79 2E
+
+
+Pal Debug Rom (The new discovered one)
+8D9DFA
+
+

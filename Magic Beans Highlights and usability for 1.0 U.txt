@@ -1,0 +1,7 @@
+1.0
+
+
+BC77A2= Magic Bean useability
+BC77CC=Magic Bean highlight
+
+BC77BC=start of item highlights

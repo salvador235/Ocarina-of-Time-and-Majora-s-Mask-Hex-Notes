@@ -1,0 +1,98 @@
+Hyrule Field
+Actor 58 bush in scenes 0-2
+-5210
+-165
+9585
+
+Actor 13
+-5210
+-165
+9585
+
+actor 4
+-5049
+-150
+9518
+
+
+
+
+-180
+80
+20
+Kokiri Forest cutscene object fix
+C5
+FB
+BC
+FC
+
+Zora Fountain replace jabu with rupee coords
+-1571
+78
+-53
+
+-1557
+52
+-46
+
+Desert Colossus Cutscene Fix
+Rock thats underground
+Y 235
+
+Warp Pad
+Y 125
+
+Forget which object list this is for below
+e
+76
+1a
+27
+162
+100
+116
+12c
+
+Gerudo Fortress cutscene change with collectibles (Ending Credits)
+5F actor
+
+613
+514
+214
+414
+313
+
+Death Mountain Collectible cutscene (Changed these actors to collectibles since they would not appear in Stage 4) Idk why I did that.
+102
+201
+300
+402
+
+Goron City Cutscene object fix list "Stage 2" for 1.0 and Debug
+Room 3
+AF
+9D
+163
+C9
+11E
+12C
+E
+18A
+
+Room 1= Same list as Room 3
+Room 0= Same List as Room 3
+
+Room 2
+AF
+163- replaced 9D which is Darunia in this room as his actor is not here
+126
+C9
+11E
+12C
+E
+18A
+
+Royal Family tomb Bombable wall coord fix (Cutscene) area 1 and 2
+actor 3
+x -1
+y 120
+z 1145 original 1119
