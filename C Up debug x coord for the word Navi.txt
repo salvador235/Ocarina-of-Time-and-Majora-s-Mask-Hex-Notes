@@ -1,0 +1,10 @@
+Master Quest Debug
+
+Navi text coord
+
+B884E3- F7 -covers I
+
+Fix    F6 can see I in navi by a bit
+
+1.0 U
+B582DF F7
